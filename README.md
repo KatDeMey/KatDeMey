@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center">A passionate junior full stack developer</h3>
 
-- 🔭 I’m currently working on **team-developed cohort manager server and developing a portfolio**
+- 🔭 I’m currently working on **developing my portfolio**
 
 - 🌱 I’m currently learning **through an intensive 6 month bootcamp with Boolean**
 
-- 👨‍💻 All of my projects are available [in my repos](in my repos)
+- 👨‍💻 All of my projects are available [in my repos]
 
 - 💬 Ask me about **my learning journey**
 

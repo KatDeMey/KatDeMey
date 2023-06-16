@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **developing my portfolio**
 
-- 🌱 I’m currently learning **through an intensive 6 month bootcamp with Boolean**
+- 🌱 I’m currently learning **typescript and tailwind**
 
 - 👨‍💻 All of my projects are available [in my repos]
 

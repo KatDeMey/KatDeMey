@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center">A passionate junior full stack developer</h3>
 
-- 🔭 I’m currently working on **developing my portfolio**
+- 🔭 I’m currently working on **developing my portfolio** which you can view at https://kat-demey-portfolio.vercel.app/
 
 - 🌱 I’m currently learning **typescript and tailwind**
+  
+- 🔍 Looking for a challenging position as a junior developer.
 
-- 👨‍💻 All of my projects are available [in my repos]
+- 👨‍💻 All of my projects are available **in my repos** or in my portfolio
 
 - 💬 Ask me about **my learning journey**
 

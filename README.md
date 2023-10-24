@@ -1,16 +1,15 @@
 # Profile-Readme
 <h1 align="center">Hi 👋, I'm Kat</h1>
-<h3 align="center">A passionate junior full stack developer</h3>
+<h3 align="center">A Junior Developer based in the UK</h3>
 
-- 🔭 I’m currently working on **developing my portfolio** which you can view at https://kat-demey-portfolio.vercel.app/
+- 🔭 I’m currently working on **updating my portfolio** with more exciting projects. Latest version can be seen at https://kat-demey-portfolio.vercel.app/
 
-- 🌱 I’m currently learning **typescript and tailwind**
+- 🌱 I’m currently mastering **vue.js and tailwind**
   
-- 🔍 Looking for a challenging position as a junior developer.
+- 🔍 Looking fun poroject ideas to work on in my free time.
 
 - 👨‍💻 All of my projects are available **in my repos** or in my portfolio
 
-- 💬 Ask me about **my learning journey**
 
 <h3 align="left">Some Stats:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **old and new projects for my portfolio!**
 
-- 🌱 I’m currently learning **PHP and refreshing my backend skills**
+- 🌱 I’m currently learning **Python and refreshing my backend skills**
 
 - 👨‍💻 All of my projects are available [in my repos](https://github.com/KatDeMey?tab=repositories)
 - 💬 Ask me about **books! I love to read so much that I'm working on my own book tracking app**
